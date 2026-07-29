@@ -17,7 +17,6 @@ Our goal is to make reliable information easier to discover while encouraging ev
 - Frameworks
 - Benchmarks
 - Newsletters
-- Reading Paths
 - Glossary
 
 ---
