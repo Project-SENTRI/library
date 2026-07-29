@@ -1,15 +1,16 @@
 # Papers
-
 This section organizes research papers related to AI safety, AI security, and responsible AI.
-
-Categories include:
-
-- Alignment
+Rather than storing papers directly, we maintain curated indexes that help readers discover influential and relevant work across different domains.
+## Categories
+- AI Safety
 - AI Security
-- LLM Safety
-- Interpretability
+- Alignment
 - Governance
-- Evaluation
+- Interpretability
 - Robustness
+- Evaluation
+- Threat Modeling
 
-Resources are selected based on relevance, impact, and accessibility whenever possible.
+## Selection Criteria
+Resources are selected based on relevance, credibility, accessibility, and long-term value.
+Where possible, links point to official publications or preprints.
